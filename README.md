@@ -17,7 +17,7 @@
 ### 🔹 **Pytorch Classification Models**
 - Built and trained classification models across tabular, image, audio, and text domains using PyTorch.
 - Designed custom architectures and leveraged pretrained models for efficient and scalable solutions.
-- 
+
 ### 🔹 **Time Series Forecasting**
 - Implemented **ARIMA & SARIMA models** for predictive analytics.
 - Evaluated model performance using **ADF test, AIC/BIC, and MAPE scoring**.
