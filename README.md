@@ -14,6 +14,10 @@
 ---  
 
 ## 📂 Featured Projects  
+### 🔹 **Pytorch Classification Models**
+- Built and trained classification models across tabular, image, audio, and text domains using PyTorch.
+- Designed custom architectures and leveraged pretrained models for efficient and scalable solutions.
+- 
 ### 🔹 **Time Series Forecasting**
 - Implemented **ARIMA & SARIMA models** for predictive analytics.
 - Evaluated model performance using **ADF test, AIC/BIC, and MAPE scoring**.
@@ -21,10 +25,6 @@
 ### 🔹 **Clustering & Dimensionality Reduction**
 - Applied **K-Means & PCA** for segmentation and pattern discovery.
 - Analyzed **WCSS and elbow method** for optimal cluster selection.
-
-### 🔹 **Data Visualization & Dashboards**
-- Developed **interactive dashboards with Dash and Plotly**.
-- Designed **seaborn-enhanced graphs** for clear trend interpretation.
 
 ---  
 
