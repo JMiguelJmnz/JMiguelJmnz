@@ -1,4 +1,4 @@
-#  Data Science & Machine Learning Enthusiast  
+#  Data Science & Machine Learning
 
 🚀 I'm Miguel Jimenez, a data-driven problem solver passionate about extracting insights, optimizing models, and visualizing complex data. With a background in **data science, time series forecasting, machine learning, and data visualization**, I enjoy tackling real-world challenges using analytical and statistical approaches.  
 
